@@ -1,6 +1,4 @@
-# ECE MAE 148 FINAL PROJECT
-# TEAM 17
-# Robobutler | Follow the Leader
+# ECE MAE 148 FINAL PROJECT TEAM 17: Robobutler | Follow the Leader
 
 Small autonomous rover that follows a person while carrying lightweight items. Using onboard vision, the robot will detect and track a human target, maintain a safe following distance, and stop when the person stops. User can use hand gestures to control robot, i.e if user wants it to stop following, present items, etc.
 
